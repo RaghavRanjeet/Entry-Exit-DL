@@ -1,11 +1,11 @@
-## Entry Exit DL
+\## Entry Exit DL
 
 A Django application to record the entry and exit of students into the library by scanning their ID cards using an RFID reader.
 
 ### System Requirements
 
 - Python 3.7 or above
-- Git
+- hlo hlo 
 - RFID Reader with compatible RFID cards
 - Ubuntu 20.04 or higher (for Linux installation) or Windows 10/11 (for Windows installation)
 - Access to the same network for both the server and the RFID reader
